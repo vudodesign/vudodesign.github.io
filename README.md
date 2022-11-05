@@ -99,7 +99,7 @@
 <p>
   <strong>🔗 Link giới thiệu chi tiết: <a href="https://youtu.be/63opfUkPq6k" target="_blank">Lập Trình MERN Stack Nâng Cao - Học Thực Tế Để Đi Làm</a></strong>
   <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/trungquandev" target="_blank">https://www.facebook.com/vud.k4</a></strong>
+  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/vud.k4" target="_blank">https://www.facebook.com/vud.k4</a></strong>
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:vudo.contact.vn@gmail.com" target="_top">vudo.contact.vn@gmail.com</a></strong>
 </p>
